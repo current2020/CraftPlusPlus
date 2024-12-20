@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "@@@",
+    "@#@",
+    "@@@"
+  ],
+  "key": {
+    "@": {
+      "item": "minecraft:copper_ingot"
+    },
+    "#": {
+      "item": "minecraft:stone"
+    }
+  },
+  "result": {
+    "id": "minecraft:copper_ore",
+    "count": 1
+  }
+}

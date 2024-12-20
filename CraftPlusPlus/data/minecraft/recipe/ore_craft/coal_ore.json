@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    " @ ",
+    "@#@",
+    " @ "
+  ],
+  "key": {
+    "@": {
+      "item": "minecraft:coal"
+    },
+    "#": {
+      "item": "minecraft:stone"
+    }
+  },
+  "result": {
+    "id": "minecraft:coal_ore",
+    "count": 1
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    " @ ",
+    "@#@",
+    " @ "
+  ],
+  "key": {
+    "@": {
+      "item": "minecraft:coal"
+    },
+    "#": {
+      "item": "minecraft:deepslate"
+    }
+  },
+  "result": {
+    "id": "minecraft:deepslate_coal_ore",
+    "count": 1
+  }
+}

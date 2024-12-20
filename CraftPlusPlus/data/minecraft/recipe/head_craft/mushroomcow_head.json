@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "minecraft:wither_skeleton_skull"
+    },
+    {
+      "item": "minecraft:red_mushroom"
+    }
+  ],
+  "result": {
+    "id": "minecraft:player_head",
+    "components": {
+      "minecraft:profile": {
+        "name": "MHF_MushroomCow"
+      }
+    },
+    "count": 1
+  }
+}

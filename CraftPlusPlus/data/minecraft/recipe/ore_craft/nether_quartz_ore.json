@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    " @ ",
+    "@#@",
+    " @ "
+  ],
+  "key": {
+    "@": {
+      "item": "minecraft:quartz"
+    },
+    "#": {
+      "item": "minecraft:netherrack"
+    }
+  },
+  "result": {
+    "id": "minecraft:nether_quartz_ore",
+    "count": 1
+  }
+}

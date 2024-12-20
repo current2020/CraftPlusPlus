@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "minecraft:brain_coral_fan"
+    }
+  ],
+  "result": {
+    "id": "minecraft:brain_coral",
+    "count": 1
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "minecraft:wither_skeleton_skull"
+    },
+    {
+      "item": "minecraft:crafting_table"
+    }
+  ],
+  "result": {
+    "id": "minecraft:player_head",
+    "components": {
+      "minecraft:profile": {
+        "name": "MHF_Steve"
+      }
+    },
+    "count": 1
+  }
+}
